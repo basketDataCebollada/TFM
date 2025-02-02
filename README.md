@@ -1,4 +1,6 @@
-# TFM
+# Predicción de Resultados de Partidos de Baloncesto y Análisis de Factores Determinantes Utilizando Modelos de Machine Learning y Métodos de Explicabilidad
+
+
 Este trabajo ha presentado un análisis exhaustivo sobre la predicción del número de puntos en partidos de la NBA mediante modelos de machine learning, específicamente Random Forest y redes neuronales, utilizando datos desde el año 2000 y las últimas cinco temporadas (2018-2024). 
 
 
